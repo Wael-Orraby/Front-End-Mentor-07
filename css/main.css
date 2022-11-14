@@ -3,7 +3,7 @@ html {box-sizing: border-box; font-family: 'Open Sans', sans-serif;}
 *, *:before, *:after {box-sizing: inherit;}
 
 /***-----START HEADER-----***/
-*{ padding: 5rem; }
+header,main,footer,*{ padding: 5rem; }
 header,nav{
     display: flex;
     justify-content: space-between;
